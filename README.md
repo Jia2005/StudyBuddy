@@ -52,7 +52,7 @@ StudyBuddy isn't just another note-taking app. We built this with real student p
 
 We're building StudyBuddy for students like you! Got feature ideas? Suggestions? We want to hear from you!
 
-- [Email](mailto:jia2.harisinghani@gmail.com)
+- Email: [jia2.harisinghani@gmail.com](mailto:jia2.harisinghani@gmail.com)
 ---
 
 Made with ❤️ and lots of ☕ by students who understand the struggle
