@@ -33,7 +33,7 @@ StudyBuddy isn't just another note-taking app. We built this with real student p
 
 ### Works Offline (Yes, Really!)
 - Access your notes without internet
-- Create new notes offline
+- Make the most of your time, anywhere 🚗
 - Everything syncs automatically when you're back online
 
 ## Getting Started 🏁
