@@ -44,7 +44,7 @@ StudyBuddy isn't just another note-taking app. We built this with real student p
 4. Organize with tags and folders
 5. Invite a friend to study when you're ready!
 
-## Join Our Study Squad! 🤓
+## Join Our Study Squad! 👥👥
 
 We're building StudyBuddy for students like you! Got feature ideas? Suggestions? We want to hear from you!
 
