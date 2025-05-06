@@ -2,7 +2,11 @@
 
 ## Ever wished your study notes could be as organized as your playlist? 🤔
 
-Tired of messy notes and chaotic study sessions?😒 StudyBuddy to the rescue! 🦸‍♂️ Create stunning notes in a distraction-free zone, then invite friends with a click when you're ready to collaborate. Your work stays private until YOU decide to share it! Smart organization, real-time teamwork, and version history make studying actually enjoyable! 🚀
+Tired of messy notes and chaotic study sessions?😒 StudyBuddy to the rescue! 🦸‍♂️ 
+
+Create stunning notes in a distraction-free zone, then invite friends with a click when you're ready to collaborate. 
+
+Your work stays private until YOU decide to share it! Smart organization, real-time teamwork, and version history make studying actually enjoyable! 🚀
 
 ## What makes StudyBuddy cool? 🚀
 
@@ -48,7 +52,7 @@ StudyBuddy isn't just another note-taking app. We built this with real student p
 
 We're building StudyBuddy for students like you! Got feature ideas? Suggestions? We want to hear from you!
 
-- [Email](#jia2.harisinghani@gmail.com)
+- [Email](#mailto:jia2.harisinghani@gmail.com)
 ---
 
 Made with ❤️ and lots of ☕ by students who understand the struggle
